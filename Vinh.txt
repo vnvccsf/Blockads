@@ -2,3 +2,4 @@
 @@||www.facebook.com^$important,document,~extension
 @@||www.google.com.vn^$important,document,~extension
 news.zing.vn###highlight
+vnexpress.net##section.container:nth-child(8) > section.sidebar_home_3:last-child
