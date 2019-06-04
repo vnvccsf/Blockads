@@ -1,0 +1,4 @@
+﻿@@||batdongsan.com.vn^$important,document,~extension
+@@||www.facebook.com^$important,document,~extension
+@@||www.google.com.vn^$important,document,~extension
+news.zing.vn###highlight
