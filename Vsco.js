@@ -1,12 +1,12 @@
 // ==UserScript==
-var body = $response.body;
-var url = $request.url;
+// var body = $response.body;
+// var url = $request.url;
 
-const path1 = '/api/subscriptions/2.1/user-subscriptions/';
+// const path1 = '/api/subscriptions/2.1/user-subscriptions/';
 
-let obj = JSON.parse(body);
+// let obj = JSON.parse(body);
 
-if (url.indexOf(path1) != -1) {
+// if (url.indexOf(path1) != -1) {
 	obj.user_subscription["expires_on_sec"] = 1655536094;
 	obj.user_subscription["expired"] = false;
 	obj.user_subscription["payment_type"] = 2;
@@ -21,5 +21,5 @@ if (url.indexOf(path1) != -1) {
 	body = JSON.stringify(obj);  
  }
 
-$done({body});
+//$done({body});
 //bynubyta
