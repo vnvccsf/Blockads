@@ -54,5 +54,3 @@ box.thuthuatjb.com##div.sweet-alert.showSweetAlert.visible:nth-child(21)
 box.thuthuatjb.com##div.sweet-overlay:nth-child(20)
 vnexpress.net###box_shop
 repo.hackyouriphone.org##header:first-child
-caonguyenit.com###kQiQlJoYEmQz > div.KMKZgqjJOSEG-default:first-child
-caonguyenit.com##div.KMKZgqjJOSEG-bg:nth-child(3)
