@@ -1,0 +1,58 @@
+! Title: Adguard Content Blocker
+! Last modified: 10 Nov 2019 09:35 UTC+7
+f.m.bongdaplus.vn###close_ad
+f.m.bongdaplus.vn###a622fe6a
+f.m.bongdaplus.vn###co453569
+vnexpress.net###page > div.banner_mobile_300x50.banner_mobile:first-child
+f.m.bongdaplus.vn###qch3 > center
+f.m.bongdaplus.vn###inpage_banner_advMidContent
+f.m.bongdaplus.vn###ad-in-page-homepage > div
+f.m.bongdaplus.vn###qch5 > center > iframe
+f.m.bongdaplus.vn###ad-in-page > div
+truyentranh.net###boxCatFish > div.CatFish > a.glyphicon.glyphicon-remove.CloseBtn:last-child
+vnexpress.net###footer > div.box_vne_app_home.ios_banner:first-child
+kinhdoanh.vnexpress.net###page > div.box_vne_app_pin.ios_banner_pin:nth-child(5) > a:first-child
+f.m.bongdaplus.vn###a55ec8d2
+f.m.bongdaplus.vn###qcvd1 > center
+phongkhamnamkhoahn.com###LR_miniframe
+m.seagames.bongdaplus.vn###ContentBindr > div.banner:nth-child(7) > iframe
+m.seagames.bongdaplus.vn###inpage_banner_advMidContent
+m.seagames.bongdaplus.vn###ad-in-page > div
+m.24h.com.vn###div_inpage_banner
+m.24h.com.vn###div_inpage_banner_open
+f.m.bongdaplus.vn###video-wrapper
+m.seagames.bongdaplus.vn##div.adv-over:nth-child(16) > div.banner:nth-child(3)
+f.m.bongdaplus.vn##center:nth-child(10) > iframe
+f.m.bongdaplus.vn###MediaBindr > div.fb-comments.fb_iframe_widget_loader.fb_iframe_widget.fb_iframe_widget_fluid:last-child > span
+f.m.bongdaplus.vn###MediaBindr > div.tagsbox:nth-child(9)
+m.seagames.bongdaplus.vn##div.adv-over:first-child > div.banner:first-child
+vnexpress.net###banner_top
+f.m.bongdaplus.vn###qctop > center > iframe
+f.m.bongdaplus.vn###NewsBindr > div.content:nth-child(13) > div > iframe:first-child
+f.m.bongdaplus.vn###a565b793
+f.m.bongdaplus.vn###ace3322f
+sohoa.vnexpress.net###box_splienquan2017
+baomoi.com##.pr
+m.baomoi.com##div.main:nth-child(4) > div.article-list.homepage:first-child >
+m.baomoi.com##div.main:nth-child(4) > div.article-list.homepage:first-child > div.item.fyi-300.nocontent.robots-nocontent:nth-child(45)
+m.baomoi.com##div.main:nth-child(4) > div.article-list.homepage:first-child > div.item.fyi-300.nocontent.robots-nocontent:nth-child****
+m.baomoi.com##div.main:nth-child(4) > div.article-list.homepage:first-child > div.item.fyi-300.nocontent.robots-nocontent:nth-child(44)
+vnexpress.net###box_gocnhin > div.inner_section
+yalujailbreak.net###bnt0HIybEnGLcUjdgjyTJScZt4eTQU
+24h.com.vn###div_inpage_banner
+m.bongdaplus.vn###co453569 > div > iframe:first-child
+m.bongdaplus.vn###qch1 > center
+m.bongdaplus.vn###co453569
+24h.com.vn###div_inpage_banner_open
+24h.com.vn###div_inpage_banner_after_inner
+m.bongdaplus.vn###inpage_banner_advMidContent
+m.bongdaplus.vn###ad-in-page > div.sg_hide_element
+vnexpress.net##div.banner_mobile_300x250
+vnexpress.net##section.section.m_top_banner:nth-child(3)
+m.baomoi.com##div.footer:last-child
+box.thuthuatjb.com##div.sweet-alert.showSweetAlert.visible:nth-child(21)
+box.thuthuatjb.com##div.sweet-overlay:nth-child(20)
+vnexpress.net###box_shop
+repo.hackyouriphone.org##header:first-child
+caonguyenit.com###kQiQlJoYEmQz > div.KMKZgqjJOSEG-default:first-child
+caonguyenit.com##div.KMKZgqjJOSEG-bg:nth-child(3)
