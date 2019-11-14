@@ -54,3 +54,5 @@ box.thuthuatjb.com##div.sweet-alert.showSweetAlert.visible:nth-child(21)
 box.thuthuatjb.com##div.sweet-overlay:nth-child(20)
 vnexpress.net###box_shop
 repo.hackyouriphone.org##header:first-child
+miui.vn###content > div.pageWidth > div.pageContent > aside:nth-child(2) > div.sidebar > div.section:nth-child(2) > div.secondaryContent
+miui.vn###content > div.pageWidth > div.pageContent > aside:nth-child(2) > div.sidebar > div.section:first-child > div.secondaryContent > a > img
