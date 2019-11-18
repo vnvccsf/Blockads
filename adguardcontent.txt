@@ -56,3 +56,21 @@ vnexpress.net###box_shop
 repo.hackyouriphone.org##header:first-child
 miui.vn###content > div.pageWidth > div.pageContent > aside:nth-child(2) > div.sidebar > div.section:nth-child(2) > div.secondaryContent
 miui.vn###content > div.pageWidth > div.pageContent > aside:nth-child(2) > div.sidebar > div.section:first-child > div.secondaryContent > a > img
+vnexpress.net##section.container:nth-child(8) > section.sidebar_home_3:last-child
+﻿@@||batdongsan.com.vn^$important,document,~extension
+@@||www.facebook.com^$important,document,~extension
+@@||www.google.com.vn^$important,document,~extension
+news.zing.vn###highlight
+vnexpress.net##section.container:nth-child(8) > section.sidebar_home_2.sidebar_flexible:nth-child(2) > section.box_category.box_100.box_logo.left.clearfix:nth-child(17)
+congthuong.vn###web-page-detail > div.webpage-container > div.body-content.fw.lt.clearfix:nth-child(5) > div.w-1200.webpage-content > div.web-page-cat.fw.lt.clearfix:last-child > div.web-cat-left-detail.lt:first-child > div.bx-category.bx-category-noborder.fw.lt.clearfix:last-child > div.bx-detail-right.rt:last-child > div.banner.banner-160.fw.lt.clearfix.banner-sticky.scroll-to-fixed-fixed:nth-child(2) > a.__ads_click > img
+congthuong.vn###web-page-detail > div.webpage-container > div.body-content.fw.lt.clearfix:nth-child(5) > div.w-1200.webpage-content > div.web-page-cat.fw.lt.clearfix:last-child > div.web-cat-left-detail.lt:first-child > div.bx-category.bx-category-noborder.fw.lt.clearfix:last-child > div.bx-detail-right.rt:last-child
+vnexpress.net##section.container:nth-child(10) > section.sidebar_3:last-child
+kinhtedothi.vn###gm__490-195-item2-noheader
+@@||my.malwarebytes.com^$important,document,~extension
+24h.com.vn###wrapperd > div.clF.mrT10:nth-child(3) > div.contnr > div.colLt:first-child > aside:last-child > div.bx4TBtmHm.bx4TBtmHm1:nth-child(2)
+miui.vn###content > div.pageWidth > div.pageContent > aside:nth-child(2) > div.sidebar > div.section:nth-child(2) > div.secondaryContent
+miui.vn###content > div.pageWidth > div.pageContent > aside:nth-child(2) > div.sidebar > div.section:first-child > div.secondaryContent > a > img
+vnexpress.net##section.section.section_main_container.page_detail:nth-child(8) > div.container.clearfix:last-child > div.inner_container.width_common:first-child > div.width_common.common-grid:last-child > div.list_news_story.list_news_gird3.width_common:last-child > article.art_item:first-child
+vnexpress.net##section.section.section_main_container.page_detail:nth-child(8) > div.container.clearfix:last-child > div.inner_container.width_common:first-child > div.width_common.common-grid:last-child > div.list_news_story.list_news_gird3.width_common:last-child > article.art_item:nth-child(13)
+miui.vn###content > div.pageWidth > div.pageContent > aside:nth-child(2) > div.sidebar > div.section:nth-child(3) > div.secondaryContent > a > img
+miui.vn###content > div.pageWidth > div.pageContent > aside:nth-child(2) > div.sidebar > div.section:first-child > div.secondaryContent > iframe
