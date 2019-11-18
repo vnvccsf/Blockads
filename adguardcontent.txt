@@ -75,3 +75,6 @@ vnexpress.net##section.section.section_main_container.page_detail:nth-child(8) >
 miui.vn###content > div.pageWidth > div.pageContent > aside:nth-child(2) > div.sidebar > div.section:nth-child(3) > div.secondaryContent > a > img
 miui.vn###content > div.pageWidth > div.pageContent > aside:nth-child(2) > div.sidebar > div.section:first-child > div.secondaryContent > iframe
 miui.vn###content > div.pageWidth > div.pageContent > aside:nth-child(2) > div.sidebar > div.section:nth-child(3) > div.secondaryContent > iframe
+vnexpress.net##section.thongtin_dn:nth-child(10) > ul.wrap_list.owl-carousel.owl-loaded.owl-drag:last-child > div.owl-stage-outer:first-child > div.owl-stage
+vnexpress.net##section.thongtin_dn:nth-child(10)
+vnexpress.net##section.container.box-traodoi:nth-child(9) > ul.list-traodoi
