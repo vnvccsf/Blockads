@@ -80,3 +80,5 @@ vnexpress.net##section.thongtin_dn:nth-child(10)
 vnexpress.net##section.container.box-traodoi:nth-child(9) > ul.list-traodoi
 vnexpress.net###box_shop
 vnexpress.net###box_qua_tang_vne
+24h.com.vn###wrapperd > div.clF.mrT10:nth-child(4) > div.contnr > div.colLt:first-child > aside:last-child
+hdvietnam.com###content > div.pageWidth > div.pageContent.defaultBorderRadius > aside:last-child > div.sidebar > div.section:nth-child(5)
