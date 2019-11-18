@@ -78,3 +78,5 @@ miui.vn###content > div.pageWidth > div.pageContent > aside:nth-child(2) > div.s
 vnexpress.net##section.thongtin_dn:nth-child(10) > ul.wrap_list.owl-carousel.owl-loaded.owl-drag:last-child > div.owl-stage-outer:first-child > div.owl-stage
 vnexpress.net##section.thongtin_dn:nth-child(10)
 vnexpress.net##section.container.box-traodoi:nth-child(9) > ul.list-traodoi
+vnexpress.net###box_shop
+vnexpress.net###box_qua_tang_vne
