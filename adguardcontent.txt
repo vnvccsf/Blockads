@@ -83,3 +83,4 @@ vnexpress.net###box_qua_tang_vne
 24h.com.vn###wrapperd > div.clF.mrT10:nth-child(4) > div.contnr > div.colLt:first-child > aside:last-child
 hdvietnam.com###content > div.pageWidth > div.pageContent.defaultBorderRadius > aside:last-child > div.sidebar > div.section:nth-child(5)
 truyentranh.net##section.bodycontainer:nth-child(3) > div.container.bgposition-relative:nth-child(3) > div.row:nth-child(5) > div.col-xs-12:last-child > div:first-child > p
+quantrimang.com###adsposttop
