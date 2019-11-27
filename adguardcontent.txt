@@ -86,3 +86,6 @@ truyentranh.net##section.bodycontainer:nth-child(3) > div.container.bgposition-r
 quantrimang.com###adsposttop
 quantrimang.com###mrc311
 quantrimang.com###MetaNET_SHARING_AD_NUMBER_4 > div.adx-zone > div.adx-row > div.adx-cell > div > iframe
+mshare.io##div.modal.fade.in:nth-child(22) > div.modal-dialog.modal-simple.modal-center.text-center
+mshare.io##div.modal.fade.in:nth-child(22)
+mshare.io##div.modal-backdrop.fade.in:nth-child(21)
