@@ -89,3 +89,4 @@ quantrimang.com###MetaNET_SHARING_AD_NUMBER_4 > div.adx-zone > div.adx-row > div
 mshare.io##div.modal.fade.in:nth-child(22) > div.modal-dialog.modal-simple.modal-center.text-center
 mshare.io##div.modal.fade.in:nth-child(22)
 mshare.io##div.modal-backdrop.fade.in:nth-child(21)
+vnexpress.net###raovatV1 > section.box_category.box_fsell.clearfix
