@@ -90,3 +90,7 @@ mshare.io##div.modal.fade.in:nth-child(22) > div.modal-dialog.modal-simple.modal
 mshare.io##div.modal.fade.in:nth-child(22)
 mshare.io##div.modal-backdrop.fade.in:nth-child(21)
 vnexpress.net###raovatV1 > section.box_category.box_fsell.clearfix
+xem.men###app_ss
+vnexpress.net##section.container:nth-child(8) > section.sidebar_home_2.sidebar_flexible:nth-child(2) > section.block_banner.clearfix.box_category:nth-child(7)
+vnexpress.net##section.container:nth-child(11) > section.sidebar_3:last-child > section.box_category.clearfix:nth-child(2)
+vnexpress.net###ewiki_widget > section.box_category.box_wiki.clearfix
